@@ -10,6 +10,8 @@
  <img alt="Repo-PopUp" src="images/Repo-PopUp.png">
 </picture>
 
+# How to add a File?
+
 <picture>
  <img alt="add-new-file" src="images/add-new-file.png">
 </picture>
@@ -17,6 +19,8 @@
 <picture>
  <img alt="edit-and-commit-new-file" src="images/edit-and-commit-new-file.png">
 </picture>
+
+# How to add a Folder?
 
 <picture>
  <img alt="add-new-folder" src="images/add-new-folder.png">
