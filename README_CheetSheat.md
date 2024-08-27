@@ -41,7 +41,7 @@
 <!-- Collapsed Section 2 -->
 
 <details> 
-  <summary>Mark Down File Hacks</summary>
+  <summary>Mark Down Syntax Hacks</summary>
 
 <!-- Headings -->
 # Headings
@@ -99,6 +99,7 @@ OK
 # Links
 > Wise man goes online and says to create a link wrap link text in [] and wrap URL in () with no space in between ](\
 
+[Syntax Guide](https://www.markdownguide.org/basic-syntax/)
 Reference Documentation [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)\
 You can also create relative links if you replace URL with the path of the document that you want to jump. [Jump to README](README.md)
 
@@ -131,8 +132,11 @@ You can also create relative links if you replace URL with the path of the docum
 
 [Full List of Emojis :technologist:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-Wise man last sentence comes as a footnote[^1].
-
-[^1]: Mein Arbeitsplatz ist sicher. Niemand will ihn.
+Wise man last sentence comes as a footnote which should come after ^1 which is wrapped in []: [^1].
+"Mein Arbeitsplatz ist sicher. Niemand will ihn." [^2].
 
 </details> <!-- Collapsed Section 2 -->
+
+[^1]: [Markdown Guide Basic Syntax](https://www.markdownguide.org/basic-syntax/)\
+[^2]: [GitHub Docs](https://docs.github.com/en/get-started)\
+
