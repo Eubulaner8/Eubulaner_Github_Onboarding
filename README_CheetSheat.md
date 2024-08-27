@@ -56,7 +56,7 @@ __You can also use two _ instead of * as well__\
 ~~ To cross a word use two ~ in the beginning and in the end
 
 #Quotes
-> Wise man said once, use an > to create a quote in Markdown Language 
+> Wise man(@Eubulaner8) said once, use an > to create a quote in Markdown Language 
 
 > Wise man said another time use Back Slash at the end to create a new line
 
@@ -110,5 +110,21 @@ You can also create relative links if you replace URL with the path of the docum
 |   1| Eubulaner 1|
 |   2| Eubulaner 2|
 |   3| Eubulaner 3|
+
+# List 
+
+- use -
+- or *
++ or + to create unordered list
+
+1. use numbers which ends with a .
+2. to crete ordered list
+
+- if you want to create a nested list
+  - then put the sign excatly under first letter of the header line and leave a space
+ 
+# Tasks
+
+- [x] its like unordered list with [] between - and the text
 
 </details> <!-- Collapsed Section 2 -->
