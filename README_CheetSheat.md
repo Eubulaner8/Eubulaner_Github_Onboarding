@@ -79,7 +79,22 @@ Tips:
   To display general help, use 'btp --help'.
 
 OK
-```  
+```
+
+> [!NOTE]
+> Wise man notes, if you wrap !NOTE in between [] then you create a note 
+
+> [!TIP]
+> Wise man shares, if you wrap !TIP in between [] then you create a tip
+
+> [!IMPORTANT]
+> Wise man informs, if you wrap !IMPORTANT in between [] then you create a info
+
+> [!WARNING]
+> Wise man warns, if you wrap !WARNING in between [] then you create a warning
+
+> [!CAUTION]
+> Wise mans wife is coming be careful
 
 # Links
 > Wise man goes online and says to create a link wrap link text in [] and wrap URL in () with no space in between ](\
