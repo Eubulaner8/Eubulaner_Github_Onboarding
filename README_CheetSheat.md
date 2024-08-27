@@ -36,6 +36,24 @@
  <img alt="add-new-folder" src="images/add-new-folder.png">
 </picture>
 
+# How to analyse .md files
+
+<picture>
+ <img alt="analyse_markdown_code" src="images/analyse_markdown_code.png">
+</picture>
+
+<!--<picture>
+ <img alt="analyse_markdown_code" src="images/analyse_markdown_code.png">
+</picture>
+
+<picture>
+ <img alt="analyse_markdown_code" src="images/analyse_markdown_code.png">
+</picture> -->
+
+| Preview | Code |
+| --- | --- |
+| <picture><img alt="markdown_code" src="images/markdown_code.png"></picture> | <picture><img alt="markdown_code" src="images/markdown_code.png"></picture> |
+
 </details> <!-- Collapsed Section 1 -->
 
 <!-- Collapsed Section 2 -->
@@ -81,6 +99,7 @@ Tips:
 OK
 ```
 
+somehow alers are not working !!!
 > [!NOTE]
 > Wise man notes, if you wrap !NOTE in between [] then you create a note 
 
