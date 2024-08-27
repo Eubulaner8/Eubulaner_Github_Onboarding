@@ -127,4 +127,12 @@ You can also create relative links if you replace URL with the path of the docum
 
 - [x] its like unordered list with [] between - and the text
 
+# Emojis, without them Wise man can survive
+
+[Full List of Emojis :technologist:](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+Wise man last sentence comes as a footnote[^1].
+
+[^1]: Mein Arbeitsplatz ist sicher. Niemand will ihn.
+
 </details> <!-- Collapsed Section 2 -->
