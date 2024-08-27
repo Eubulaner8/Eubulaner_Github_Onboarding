@@ -7,19 +7,19 @@
 </picture>
 
 <picture>
- <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+ <img alt="Repo-PopUp" src="images/Repo-PopUp.png">
 </picture>
 
 <picture>
- <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+ <img alt="add-new-file" src="images/add-new-file.png">
 </picture>
 
 <picture>
- <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+ <img alt="edit-and-commit-new-file" src="images/edit-and-commit-new-file.png">
 </picture>
 
 <picture>
- <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+ <img alt="add-new-folder" src="images/add-new-folder.png">
 </picture>
 
 <!-- Headings -->
@@ -28,3 +28,4 @@
 ### Use ### for third  level heading
 
 <!-- https://docs.github.com/en/repositories -->
+
