@@ -7,9 +7,14 @@
  <summary>How to create a new Repo in Github?</summary>
 
 # How to add a Repo
+
+> Press New Button/
+
 <picture>
  <img alt="create-a-new-Repo" src="images/create-a-new-Repo.png">
 </picture>
+
+> Fill Repo Name and choose "Add a README file" and press  /
 
 <picture>
  <img alt="Repo-PopUp" src="images/Repo-PopUp.png">
@@ -39,14 +44,52 @@
   <summary>Mark Down File Hacks</summary>
 
 <!-- Headings -->
-#   Use #   for first  level heading
-##  Use ##  for second level heading
-### Use ### for third  level heading
+# Headings
+Use #   for first  level heading\
+Use ##  for second level heading\
+Use ### for third  level heading
 
--------------------------------------------------------
-> Wise man said once, use an > to create a quote in Markdown Language
+# Styling text
+**For bold text use two * in the beginning and in the end with no space**\
+__You can also use two _ instead of * as well__\
+*For italic use only one * or _ in the beginning and in the end*\
+~~ To cross a word use two ~ in the beginning and in the end
+
+#Quotes
+> Wise man said once, use an > to create a quote in Markdown Language 
+
+> Wise man said another time use Back Slash at the end to create a new line
+
+> Wise man keeps saying, to quote a code use backticks(which can be found in the next Quote) in the beginning and in the and command `git clone`
+
+> Wise man adds, if you want to a block of code then use make two lines with three ` and put your code in between
+```
+Welcome to the SAP BTP command line interface (client v2.8.0)
+
+Usage: btp [OPTIONS] ACTION [GROUP/OBJECT] [PARAMS]
+
+CLI server URL:                    not set
+User:                              not set
+Configuration:                     /home/user/.cache/.btp/config.json
+
+You are currently not logged in.
+
+Tips:
+  To log in to a global account of SAP BTP, use 'btp login'. For help on login, use 'btp --help login'.
+  To display general help, use 'btp --help'.
+
+OK
+```  
+
+# Links
+> Wise man goes online and says to create a link wrap link text in [] and wrap URL in () with no space in between ](\
+
+Reference Documentation [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)\
+You can also create relative links if you replace URL with the path of the document that you want to jump. [Jump to README](README.md)
 
 <!-- Table -->
+# Table
+
 | ID | Name       |
 |----|------------|
 |   1| Eubulaner 1|
