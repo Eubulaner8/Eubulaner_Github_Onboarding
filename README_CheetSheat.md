@@ -30,9 +30,12 @@
  <img alt="add-new-folder" src="images/add-new-folder.png">
 </picture>
 
-</details>
+</details> <!-- Collapsed Section 1 -->
 
-# Mark Down File Hacks
+<!-- Collapsed Section 2 -->
+
+<details> 
+  <summary>Mark Down File Hacks</summary>
 
 <!-- Headings -->
 #   Use #   for first  level heading
@@ -41,6 +44,9 @@
 
 <!-- Table -->
 | ID | Name       |
+|----|------------|
 |   1| Eubulaner 1|
 |   2| Eubulaner 2|
 |   3| Eubulaner 3|
+
+</details> <!-- Collapsed Section 2 -->
