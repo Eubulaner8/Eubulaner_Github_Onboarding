@@ -5,6 +5,9 @@
 <!-- Collapsed Section 1 -->
 <details>
  <summary>How to create a new Repo in Github?</summary>
+-------------------------------------------------------
+> Wise man said once, use an > to create a quote in Markdown Language
+
 
 <picture>
  <img alt="create-a-new-Repo" src="images/create-a-new-Repo.png">
