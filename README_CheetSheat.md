@@ -6,6 +6,21 @@
  <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
 </picture>
 
+<picture>
+ <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+</picture>
+
+<picture>
+ <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+</picture>
+
+<picture>
+ <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+</picture>
+
+<picture>
+ <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+</picture>
 
 <!-- Headings -->
 #   Use #   for first  level heading
