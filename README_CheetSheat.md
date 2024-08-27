@@ -7,7 +7,7 @@
  <summary>How to create a new Repo in Github?</summary>
 
 <picture>
- <img alt="Create-a-new-Repo" src="images/Create-a-new-Repo.png">
+ <img alt="create-a-new-Repo" src="images/create-a-new-Repo.png">
 </picture>
 
 <picture>
