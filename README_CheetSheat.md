@@ -6,7 +6,7 @@
 <details>
  <summary>How to create a new Repo in Github?</summary>
 
-# How to add a Repo
+# $${\color{#634CE4}How \space to \space add \space a \space Repo}$$
 
 > Press New Button/
 
@@ -146,6 +146,11 @@ You can also create relative links if you replace URL with the path of the docum
 # Tasks
 
 - [x] its like unordered list with [] between - and the text
+
+# Colors
+
+$${\color{purple} This \space is \space purple \space Color}$$\
+$${\color{#634CE4} Eubuleus Color \space hash \space Code}$$
 
 # Emojis, without them Wise man can survive
 
