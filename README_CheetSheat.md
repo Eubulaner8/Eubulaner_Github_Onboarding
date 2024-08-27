@@ -5,8 +5,6 @@
 <!-- Collapsed Section 1 -->
 <details>
  <summary>How to create a new Repo in Github?</summary>
--------------------------------------------------------
-> Wise man said once, use an > to create a quote in Markdown Language
 
 # How to add a Repo
 <picture>
@@ -44,6 +42,9 @@
 #   Use #   for first  level heading
 ##  Use ##  for second level heading
 ### Use ### for third  level heading
+
+-------------------------------------------------------
+> Wise man said once, use an > to create a quote in Markdown Language
 
 <!-- Table -->
 | ID | Name       |
