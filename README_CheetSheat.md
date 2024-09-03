@@ -6,7 +6,7 @@
 <details>
  <summary>How to create a new Repo in Github?</summary>
 
-# $${\color{#634CE4}How \space to \space add \space a \space Repo}$$
+# $${\color{#845EC2}How \space to \space add \space a \space Repo}$$
 
 > Press New Button/
 
